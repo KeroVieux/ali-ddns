@@ -1,0 +1,17 @@
+{
+  "name": "ali-ddns",
+  "version": "1.0.0",
+  "description": "dds for ali on wrt-open router device",
+  "main": "index.js",
+  "author": "hidoge",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.6",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "shelljs": "^0.8.3"
+  }
+}
