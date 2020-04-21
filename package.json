@@ -1,7 +1,7 @@
 {
   "name": "ali-ddns",
   "version": "1.0.0",
-  "description": "dds for ali on wrt-open router device",
+  "description": "dds for ali on wrt-open router devices",
   "main": "index.js",
   "author": "hidoge",
   "license": "MIT",
